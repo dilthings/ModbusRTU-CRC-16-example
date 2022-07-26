@@ -1,5 +1,7 @@
-/* Working example of calculating Modbus RTU checksum */
-/* Dilan 26-Jul-2022 */
+/* Working example of calculating Modbus RTU checksum
+* Dilan 26-Jul-2022 
+* Original code from https://www.cyberforum.ru/csharp-beginners/thread2329096.html and other websites
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
